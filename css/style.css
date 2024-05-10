@@ -1351,9 +1351,10 @@ pre .javascript .function {
 }
 
 
-/* Diy */
+/* vvvDiyvvv */
+/* 滿版部分 */
 .fullpage #main{
-  width: 100px;
+  width: 100%;
   float: none;
 }
 .fullpage .article-meta ,
